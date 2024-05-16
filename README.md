@@ -1,5 +1,5 @@
 # COMP3310 Week 10
-
+I can smell megapancham from here mate
 This workshop uses similar code to the Week8 workshop, but now you will be integrating tests into the framework.
 
 ## Installation Instructions
